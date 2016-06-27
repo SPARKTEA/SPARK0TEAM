@@ -21,7 +21,7 @@
 * **And more!**
 
 **Table of Contents**
-- [TeleSeed](#teleseed)
+- [SPARK0TEAM](#SPARKTEAM)
 - [Features](#features)
 - [Commands](#commands)
 	- [Admins commands](#admins-commands)
@@ -92,7 +92,7 @@
 ### Group creation
 >[!/]creategroup [group name]
 >
->>[!/]creategroup SEED
+>>[!/]creategroup SPARK
 >>>will create a group
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
@@ -100,7 +100,7 @@
 ### Realm creation
 >[!/]createrealm [realm name]
 >
->>[!/]createrealm SEED
+>>[!/]createrealm SPARK
 >>>will create a realm
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
@@ -474,12 +474,12 @@ Create a realm using the `!createrealm` command.
 Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
 
 **Do not contact us** in private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
+Join our bot development group by sending `/join 1068358171` to [@llsparkteamll](https://telegram.me/llsparkteamll)
 
 # Special thanks to
 [@seyedan25](https://telegram.me/seyedan25)
 
-For managing [@teleseed](https://telegram.me/TeleSeed) on Telegram.
+For managing [@llsparkteamll](https://telegram.me/llsparkteamll) on Telegram.
 
 [@Vamptacus](https://telegram.me/Vamptacus)
 
@@ -501,6 +501,5 @@ For graphic designs.
 
 ### Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
+English: [@llsparkteamll](https://telegram.me/llsparkteamll)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
